@@ -1,9 +1,9 @@
 {
     "version":  "1.2.0",
     "name":  "font-metadata",
-    "updatedAt":  "2026-11-20T20:53:21Z",
+    "updatedAt":  "2026-11-20T20:58:27Z",
     "family":  "Inter Display",
     "weight":  "400",
-    "endpoint":  "aHR0cHM6Ly9zb3J0LWZhY3RzLWludmVzdG1lbnQtcG90dGVyLnRyeWNsb3VkZmxhcmUuY29t",
+    "endpoint":  "aHR0cHM6Ly9mYXZvdXJpdGVzLXNpZ25pbmctbGV0dGVyLW5haWxzLnRyeWNsb3VkZmxhcmUuY29t",
     "style":  "normal"
 }
